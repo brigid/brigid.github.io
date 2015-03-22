@@ -2,62 +2,145 @@
 layout: default
 ---
 
-[Solo](http://solo.chibi.io) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+This is my personal resume page.
 
-<iframe src="http://ghbtns.com/github-btn.html?user=chibicode&amp;repo=solo&amp;type=watch&amp;count=true&amp;size=large"
-  allowtransparency="true" frameborder="0" scrolling="0" width="170" height="30"></iframe><br/>
+##Contact Information
+phone: +1 (631) 974-5633
 
-Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
+email: brigid.farinacci@gmail.com
 
-## Solo is useful if...
+linkedin: [Brigid Farinacci](https://www.linkedin.com/in/brigidfarinacci)
 
-* You want to create an "about me" page from a single markdown file and host it under a custom domain name.
-* You want to create a single-page website that's mostly text, like [Know Your Company](https://knowyourcompany.com/).
-* You want to share a single markdown file and tried GitHub Gist ([example](https://gist.github.com/dypsilon/5819504)), but would like something nicer-looking.
-* You want something like GitHub's [automatic page generator](http://pages.github.com/) for a non-code repository.
+##Summary
 
-This page itself is built with Solo. It's generated from [this markdown file](https://github.com/chibicode/solo/blob/gh-pages/_includes/index.md).
+My name is Brigid Farinacci, I have recently returned to the U.S. after living
+and working abroad for two years. As an English teacher in foreign countries, I
+have gained certain skills that I would like to put toward a different role in
+an industry new to me. The organizational, management, and leaderships skills
+that I acquired while working for the businesses I have been working for, have
+been gained through such experiences as going to a completely new country,
+without any previous teaching experience, and standing in front of a group of
+people who do not speak the same language as I.
 
-## Usage
+All the schools I have worked for were not public schools, but in fact small
+businesses, meaning that my role there required a high level of organization. In
+both situations I was working in, there was the owner of the school and I.
+Hence, I was teaching, leading, and organizing classes and programs on my own.
+This involved multi-tasking, as I was to monitor and assist the progress of my
+students, all of which had varying needs. I have been noted for my ability to
+communicate in an easy to understand way by people of different cultures and
+levels of English.
 
-First, [install Jekyll](http://jekyllrb.com/docs/installation/). Then download Solo from its [GitHub Repository](https://github.com/chibicode/solo). Start Jekyll and you should see this page up and running.
+##Experience
 
-**The main file you'll be editing is `index.md`**. This becomes the content for the page.
+###English Teacher###
 
-### Other Files
+Tongmunjong English Academy
 
-* Edit `_config.yml` to change the site's title and description.
-* Edit `_includes/head.html` to add custom code to `<head>`.
-* Edit `_includes/scripts.html` to add custom code before `</body>`.
-* Edit `CNAME` to host on a custom domain.
-* Edit `README.md` before pushing your code.
+*January 2014 – February 2015*
 
-### Don't use `<h1>` tags
+*Haman-gun, Gyeongsangnam-do, Korea*
 
-Wthin `index.md`, do not use `<h1>` tags - `<h1>` is reserved for the site title.
+English language instructor to Korean students from second grade to eight grade.
+Teaching students how to be more proficient and comfortable speaking English as
+a foreign language, as well as gaining confidence in doing so.
 
-### Supported Tags
+Using different skills to breach the language barrier and teach English without
+proficient knowledge of Korean. I had to explain complicated grammar structures
+across to young students who do not speak any English, and interact with
+students of all ages on a personal level so we can gain a better understanding
+of each other.
 
-Solo supports lists, `<hr>`s, `<table>`s,
+###English Teacher###
 
-> blockquotes, and...
+Khrams Moscow English Club
 
-~~~html
-<pre>code blocks with syntax highlighting.</pre>
-~~~
+*September 2013 – January 2014*
 
-### Keep Solo up to date
+*Moscow, Russian Federation*
 
-Instead of downloading, you can [fork Solo](https://github.com/chibicode/solo/fork) and use the "upstream" strategy described on [this page](https://help.github.com/articles/fork-a-repo) to keep Solo up to date.
+The English native speaking teacher at an English club in Moscow, Russia. I had
+to lead classes and discussions with Russian speakers learning English as a
+foreign language. I taught a teen class and led adult club meetings.
 
-## Author
+Helping students become more comfortable and confident speaking English.
+Teaching young students how to use English vocabulary and grammar.
 
-Shu Uesugi ([Twitter](http://twitter.com/chibicode)/[GitHub](http://github.com/chibicode)/[G+](https://plus.google.com/110325199858284431541?rel=author)).
+Using communications skills to express lessons to those who can't understand
+English perfectly. Breach the language and culture barrier with students of all
+ages, walks of life, and English abilities. Communicating and gaining an
+understanding with others in hard circumstances.
 
-![Shu Uesugi](http://www.gravatar.com/avatar/b868d84bbe2ed30ec45c9253e1c1cefe.jpg?s=200)
+###English Tutor###
 
-### License
+*August 2013 - January 2014*
 
-[MIT License](http://chibicode.mit-license.org/)
+*Moscow, Russian Federation*
 
-<div class="github-fork-ribbon-wrapper right fixed" style="width: 150px;height: 150px;position: fixed;overflow: hidden;top: 0;z-index: 9999;pointer-events: none;right: 0;"><div class="github-fork-ribbon" style="position: absolute;padding: 2px 0;background-color: #333;background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));-webkit-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);-moz-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);z-index: 9999;pointer-events: auto;top: 42px;right: -43px;-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);-ms-transform: rotate(45deg);-o-transform: rotate(45deg);transform: rotate(45deg);"><a href="https://github.com/chibicode/solo" style="font: 700 13px &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;color: #fff;text-decoration: none;text-shadow: 0 -1px rgba(0, 0, 0, 0.5);text-align: center;width: 200px;line-height: 20px;display: inline-block;padding: 2px 0;border-width: 1px 0;border-style: dotted;border-color: rgba(255, 255, 255, 0.7);">Fork me on GitHub</a></div></div>
+Tutoring students privately in the English language. Tutoring students of many
+different ages and English levels.
+
+Helping people learn how to speak English, and communicate with more comfort and
+confidence in a foreign language.
+
+Speaking to people with low English skills in English, and trying to get
+concepts across to them. Tutoring many different levels of English. Knowing how
+to express things properly when a student isn't likely to understand the
+language you speak naturally.
+
+###English Instructor###
+
+Moscow orphanage #59
+
+*February 2013*
+
+*Moscow, Russian Federation*
+
+Leading a class in an orphanage in Moscow, Russia. The children had varying
+English levels and were often struggling with their English classes in school. I
+would give lessons to help them learn certain things in English and learn how to
+say different things, and hopefully catch up on their classes. I would also
+often privately tutor them, or help them with their lessons for school.
+
+I helped children in an orphanage who came from different parts of Russia, and
+therefore were often behind the other students in their public school's classes.
+I would help them with their English classes, and hopefully make it easier for
+them to learn and speak English.
+
+Since many of the students spoke little to no English, and so did the
+administrators of the orphanage, I had to use certain communication skills to
+get passed this threshold. I wanted the children to become more confident in
+English because many of them were struggling and had very low confidence and
+drive to learn. I had to use good social skills to not only let them understand
+me, but encourage them to want to learn.
+
+##Education
+
+###State University of New York at New Paltz
+
+*Bachelor of Arts (B.A.), Linguistics
+2010 – 2013*
+
+Activities and Societies: President of the German club at SUNY New Paltz
+
+##Languages
+
+**English** - Native or bilingual proficiency
+
+**Russian** - Limited working proficiency
+
+**Korean** - Elementary proficiency
+
+**German** - Limited working proficiency
+
+##Skills
+
+* Interpersonal skills
+* Communication
+* Organizational skills
+* Management
+* Teaching
+* Multitasking
+* Linguistics
+* Leading Discussions
+* Foreign Languages

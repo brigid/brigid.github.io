@@ -124,9 +124,9 @@ me, but encourage them to want to learn.
 
 Activities and Societies: President of the German club at SUNY New Paltz
 
-Study Abroad: Moscow State University, Moscow, Russian Federation; Spring 2013
-
-              Kapito Language Academy, Muenster, Germany; Summer 2011
+Study Abroad: 
+Moscow State University, Moscow, Russian Federation; Spring 2013
+Kapito Language Academy, Muenster, Germany; Summer 2011
 
 ##Languages
 

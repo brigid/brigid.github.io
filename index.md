@@ -1,5 +1,6 @@
 ---
 layout: default
+published: true
 ---
 
 This is my personal resume page.
@@ -92,7 +93,7 @@ language you speak naturally.
 
 Moscow orphanage #59
 
-*February 2013*
+*February 2013 - May 2013*
 
 *Moscow, Russian Federation*
 

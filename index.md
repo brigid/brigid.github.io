@@ -64,7 +64,7 @@ of each other.
 
 ###English Teacher###
 
-Khrams Moscow English Club
+Kharms Moscow English Club
 
 *September 2013 – January 2014*
 

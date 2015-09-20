@@ -159,3 +159,4 @@ Kapito Language Academy, Muenster, Germany; Summer 2011
 * Linguistics
 * Leading Discussions
 * Foreign Languages
+* Ad trafficking via DFP and Freewheel

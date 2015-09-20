@@ -34,6 +34,16 @@ levels of English.
 
 ##Experience
 
+###Digital Sales Ad Operations###
+
+NBC Universal
+
+*April 2015 - Present*
+
+*New York, New York*
+
+Coordinator, Digital Ad Operations for NBCUniversal Sports.  Trafficking ads for NBCUniversal Sports Department.
+
 ###English Teacher###
 
 Tongmunjong English Academy
